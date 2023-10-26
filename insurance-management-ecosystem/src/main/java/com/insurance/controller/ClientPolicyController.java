@@ -7,7 +7,8 @@ import org.springframework.web.bind.annotation.*;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-import com.insurance.entity.ClientPolicy;
+//import com.insurance.entity.ClientPolicy;
+import com.insurance.service.ClientPolicyService;
 
 
 @RestController
