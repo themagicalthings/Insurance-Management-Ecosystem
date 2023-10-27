@@ -18,23 +18,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/themagicalthings/insurance-Management-Ecosystem">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">insurance-Management-Ecosystem</h3>
+<h3 align="center">Insurance-Management-Ecosystem</h3>
 
   <p align="center">
-    project_description
+    During my tenure as a Backend Developer, I was responsible for crafting a groundbreaking application with the intent of revolutionizing the operational landscape of insurance companies. This multifaceted application was meticulously designed to encompass client management, policy administration, claims processing, and policy retrieval functionalities.
     <br />
-    <a href="https://github.com/github_username/insurance-Management-Ecosystem"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/themagicalthings/insurance-Management-Ecosystem"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/insurance-Management-Ecosystem">View Demo</a>
+    <a href="https://github.com/themagicalthings/insurance-Management-Ecosystem">View Demo</a>
     ·
-    <a href="https://github.com/github_username/insurance-Management-Ecosystem/issues">Report Bug</a>
+    <a href="https://github.com/themagicalthings/insurance-Management-Ecosystem/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/insurance-Management-Ecosystem/issues">Request Feature</a>
+    <a href="https://github.com/themagicalthings/insurance-Management-Ecosystem/issues">Request Feature</a>
   </p>
 </div>
 
