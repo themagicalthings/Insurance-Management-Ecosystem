@@ -64,10 +64,6 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-    
-</details>
-
-This code snippet will create a dropdown section labeled "Additional Files" with the provided controller and entity names as list items. You can add more items as needed, and this structure maintains the collapsible format for your table of contents.
 
 </details>
 
