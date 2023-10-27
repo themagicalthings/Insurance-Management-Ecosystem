@@ -183,7 +183,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Name : Vamsi Thokala
+Name : Vamsi Thokala.
 Email : thevamsithokala@gmail.com | vamsi.thokala-1@ou.edu
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/themagicalthings/insurance-Management-Ecosystem)
