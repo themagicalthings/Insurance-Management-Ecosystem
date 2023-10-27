@@ -203,15 +203,15 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/themagicalthings/insurance-Management-Ecosystem.svg?style=for-the-badge
 [contributors-url]: https://github.com/themagicalthings/insurance-Management-Ecosystem/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/insurance-Management-Ecosystem/insurance-Management-Ecosystem/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/themagicalthings/insurance-Management-Ecosystem.svg?style=for-the-badge
+[forks-url]: https://github.com/themagicalthings/insurance-Management-Ecosystem/network/members
+[stars-shield]: https://img.shields.io/github/stars/themagicalthings/insurance-Management-Ecosystem.svg?style=for-the-badge
 [stars-url]: https://github.com/themagicalthings/insurance-Management-Ecosystem/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/themagicalthings/insurance-Management-Ecosystem.svg?style=for-the-badge
 [issues-url]: https://github.com/themagicalthings/insurance-Management-Ecosystem/issues
-[license-shield]: https://img.shields.io/github/license/themagicalthings/repo_name.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/themagicalthings/insurance-Management-Ecosystem.svg?style=for-the-badge
 [license-url]: https://github.com/themagicalthings/insurance-Management-Ecosystem/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
