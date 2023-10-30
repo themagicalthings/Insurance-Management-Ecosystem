@@ -8,13 +8,16 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 
-public class AppTest 
-{
+class AppTest {
     
     @Test
 	void contextLoads() {
-         int result = 2 + 2;
-        assertEquals(4, result);
+        //  int result = 2 + 2;
+        // assertEquals(4, result);
 	}
 
 }
+
+
+
+
