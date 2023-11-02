@@ -18,9 +18,37 @@ public class Clients {
 
     
 
-    // Getters
-    
-    // Setters
-   
+    public String getName() {
+        return name;
+    }
+
+    public String getContactInformation() {
+        return contactInformation;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public String getClientType() {
+        return clientType;
+    }
+
+    // Setter methods
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setContactInformation(String contactInformation) {
+        this.contactInformation = contactInformation;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
+
+    public void setClientType(String clientType) {
+        this.clientType = clientType;
+    }
 }
 
